@@ -7,3 +7,5 @@
 🔹 I strive for continuous development in the field of Angular and web technologies, learning new things, and staying up-to-date with the latest trends.
 
 🔹 I am motivated to work on projects that provide value to users and bring tangible business benefits, while also allowing me to broaden my horizons and possibilities.
+
+🛠️ Training profile: https://github.com/KacperLechicki?tab=repositories
