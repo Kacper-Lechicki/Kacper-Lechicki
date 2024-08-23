@@ -1,9 +1,12 @@
-💼 Angular Developer | Front-end | Web Developer
+# Angular Developer | Front - end | Web Developer
 
-👋 I began my programming journey when I started my engineering studies in Computer Science. It quickly turned into my passion, and shortly thereafter, my career path. I love solving complex problems and creating efficient solutions. Every project is an opportunity for learning and refining my skills. I firmly believe that collaboration with others is a key element of success. As a team player, I am ready to share knowledge, support colleagues, and work together to achieve project goals.
+> [!NOTE]
+> My journey into programming began during my Computer Science studies, and it quickly grew into a passion that now fuels my career. I'm driven by the challenge of solving complex problems and developing efficient, innovative solutions. Every project I work on is a chance to learn, grow, and refine my expertise. I believe that success is built through collaboration—whether it's sharing knowledge, supporting teammates, or driving towards a common goal, I thrive in team environments.
 
-🚀 My goals:
+## What drives me:
 
-🔹 I strive for continuous development in the field of Angular and web technologies, learning new things, and staying up-to-date with the latest trends.
+> [!IMPORTANT]
+> A commitment to continuous growth. I'm passionate about staying on the cutting edge of web technologies. I make it a priority to stay current with the latest trends and tools.
 
-🔹 I am motivated to work on projects that provide value to users and bring tangible business benefits, while also allowing me to broaden my horizons and possibilities.
+> [!IMPORTANT]
+> Delivering value. I’m motivated by projects that make a tangible impact, both for users and businesses, while expanding my skills and pushing boundaries.
