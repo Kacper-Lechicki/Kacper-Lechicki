@@ -1,4 +1,4 @@
-# Web Developer
+# Fullstack Developer @ animalhotels.com | AI Engineer | AWS
 
 > [!NOTE]
 > For me, programming is more than just a job - it is a mindset I discovered during my studies and have been passionately developing ever since.  
